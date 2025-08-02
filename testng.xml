@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BlankFactorAutomationSuite">
+    <test name="BlankFactorTest">
+        <classes>
+           
+            <class name="com.automation.pages.BlankFactorRetirementE2ETest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-01T19:54:29 EDT" name="BlankFactorAutomationSuite" finished-at="2025-08-01T19:55:05 EDT" duration-ms="35901">
+    <groups>
+    </groups>
+    <test started-at="2025-08-01T19:54:29 EDT" name="BlankFactorTest" finished-at="2025-08-01T19:55:05 EDT" duration-ms="35901">
+      <class name="com.automation.pages.BlankFactorRetirementE2ETest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.pages.BlankFactorRetirementE2ETest@7b98f307]" started-at="2025-08-01T19:54:29 EDT" name="setUp" finished-at="2025-08-01T19:54:31 EDT" duration-ms="2369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEndToEndRetirementFlow()[pri:0, instance:com.automation.pages.BlankFactorRetirementE2ETest@7b98f307]" started-at="2025-08-01T19:54:31 EDT" name="testEndToEndRetirementFlow" finished-at="2025-08-01T19:55:04 EDT" duration-ms="32917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEndToEndRetirementFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.pages.BlankFactorRetirementE2ETest@7b98f307]" started-at="2025-08-01T19:55:04 EDT" name="tearDown" finished-at="2025-08-01T19:55:05 EDT" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.pages.BlankFactorRetirementE2ETest -->
+    </test> <!-- BlankFactorTest -->
+  </suite> <!-- BlankFactorAutomationSuite -->
+</testng-results>

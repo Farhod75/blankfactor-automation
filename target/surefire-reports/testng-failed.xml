@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BlankFactorAutomationSuite]" verbose="0">
+  <test thread-count="5" name="BlankFactorTest(failed)" verbose="0">
+    <classes>
+      <class name="com.automation.pages.BlankFactorRetirementTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testRetirementTileFlip"/>
+        </methods>
+      </class> <!-- com.automation.pages.BlankFactorRetirementTest -->
+    </classes>
+  </test> <!-- BlankFactorTest(failed) -->
+</suite> <!-- Failed suite [BlankFactorAutomationSuite] -->
